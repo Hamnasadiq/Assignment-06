@@ -31,6 +31,7 @@ print(f"Amazing! The sum of your number is {total}.")
 
 
 # sum of number is prime or not
+
 is_prime=True
 if total <= 1:
     is_prime = False
